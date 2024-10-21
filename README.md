@@ -9,3 +9,6 @@ Automated detection of illegal hoardings using machine learning models.
 Real-time processing of image data from various sources.
 Scalable and adaptable to different city environments.
 Aiming to support city management in maintaining regulation compliance
+
+we made a prototype website how it gonna works -
+https://fatimazaki1811d.wixsite.com/esurat/register-now-1
